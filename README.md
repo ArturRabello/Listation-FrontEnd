@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="img/logo-readme.png" width="290" height="150" />
-</p>
+
 
 # Listation
 
@@ -56,4 +54,4 @@ O desenvolvimento dessa aplicação, me permitiu aprimorar as minhas habilidades
 ├── ⚙️ script.js
 └── 📌 README.md
 ```
-# Listation-FrontEnd
+
