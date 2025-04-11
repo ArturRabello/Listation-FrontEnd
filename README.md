@@ -1,6 +1,8 @@
 
-
 # Listation
+![GitHub Repo Size](https://img.shields.io/github/repo-size/ArturRabello/Listation-FrontEnd?style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/ArturRabello/Listation-FrontEnd?style=for-the-badge) ![Linguagens](https://img.shields.io/github/languages/count/ArturRabello/Listation-frontEnd?style=for-the-badge&logoWidth=40&labelWidth=100)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 O Listation é um aplicação projetada para auxiliar pessoas na organização de atividades, tarefas e ideias de forma simples e fácil.
 
@@ -10,7 +12,7 @@ Observação: A aplicação não possui funcionalidade de arrastar e soltar (dra
 
 # Propósito
 
-Este projeto foi desenvolvido como parte do programa de **Pós-Graduação em Desenvolvimento Full Stack**, tendo como objetivo principal a consolidação prática de conceitos teóricos estudados durante o curso.
+Este projeto foi desenvolvido como parte do programa de **Pós-Graduação em Desenvolvimento Full Stack da PUC Rio**, tendo como objetivo principal a consolidação prática de conceitos teóricos estudados durante o curso.
 
 O desenvolvimento dessa aplicação, me permitiu aprimorar as minhas habilidades em front-end.
 
@@ -25,11 +27,12 @@ O desenvolvimento dessa aplicação, me permitiu aprimorar as minhas habilidades
 ## 🛠️ Como utilizar 
 - **Clone o repositório:**
 ```bash
+git clone https://github.com/ArturRabello/Listation-FrontEnd.git
 ```
 
-- **É necessário que o servidor seja iniciado**:
-```bash
-```
+- **É necessário que a api seja iniciada**: [Listation-BackEnd](https://github.com/ArturRabello/Listation-BackEnd)
+
+
 
 
 ## 🔍 funcionalidades
